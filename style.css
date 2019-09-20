@@ -1,0 +1,33 @@
+.head{
+    height: 200px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    text-align: center;
+}
+.sign-in {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.button {
+    height: 30px;
+    width: 130px;
+    type="reset";
+    value="DEL";
+    background-color: blue;
+    color: white;
+}
+#text-blue{
+    color: blue;
+}
